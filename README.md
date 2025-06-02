@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahultota12&label=Profile%20views&color=0e75b6&style=flat" alt="rahultota12" /> </p>
 
-- 🔭 I’m currently working on **[Smart Selling](https://sell-bike-git-main-rahultotas-projects.vercel.app/)**
+- 🔭 I’m currently working on **[Job Portal](https://job-portal-five-flax.vercel.app)**
 
 - 🌱 I’m currently learning **React**
 
